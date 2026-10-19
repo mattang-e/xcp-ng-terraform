@@ -1,0 +1,13 @@
+vms = {
+  terraform-vm01 = {
+    cpus      = 2
+    memory_gb = 2
+    disk_gb   = 20
+  }
+
+  terraform-vm02 = {
+    cpus      = 2
+    memory_gb = 2
+    disk_gb   = 20
+  }
+}
